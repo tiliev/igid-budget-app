@@ -23,8 +23,7 @@
               ]
             },
             "assets": [
-              "src/assets",
-              "src/favicon.ico"
+              "src/assets"
             ],
             "styles": [
               "src/styles.scss"
@@ -84,8 +83,7 @@
               "src/styles.scss"
             ],
             "assets": [
-              "src/assets",
-              "src/favicon.ico"
+              "src/assets"
             ]
           }
         },
